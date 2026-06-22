@@ -4,9 +4,7 @@
         "description": "The menus have been reorganized and are now accessible via a Quick Menu. The board buttons have a new design.",
         "image": "img/thumbs/panel02.png",
         "date": "Monday, 22 June 2026"
-    }
-],
-[
+    },
     {
         "name": "Version 0.5.0",
         "description": "time to raise up little Raidio App. This will be the first version of Raidio App that will be released to public.",
