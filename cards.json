@@ -1,5 +1,11 @@
 [
     {
+        "name": "Version 0.7.0",
+        "description": "New design created. All set values updated. Import and export system for saving a complete set.",
+        "image": "img/thumbs/panel04.png",
+        "date": "Monday, 28 June 2026"
+    },
+    {
         "name": "Version 0.6.0",
         "description": "The menus have been reorganized and are now accessible via a Quick Menu. The board buttons have a new design.",
         "image": "img/thumbs/panel02.png",
