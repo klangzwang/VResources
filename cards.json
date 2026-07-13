@@ -1,5 +1,11 @@
 [
     {
+        "name": "Version 0.8.0",
+        "description": "This should be the first version to appear under ‘Releases’. Hopefully. Maybe… well, definitely!",
+        "image": "img/thumbs/panel03.png",
+        "date": "Monday, 13 July 2026"
+    },
+    {
         "name": "Version 0.7.0",
         "description": "New design created. All set values updated. Import and export system for saving a complete set.",
         "image": "img/thumbs/panel04.png",
