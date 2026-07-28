@@ -1,5 +1,11 @@
 [
     {
+        "name": "Version 0.8.1",
+        "description": "Leider fehlt mir jegliche Orientierung, was sich alles geändert hat. Aber hier mal ein paar Punkte. Der BoardTab hat eine Aufnahme Funktion und das Grid wurde überarbeitet. Es gibt einen Hub um seine Sets hochzuladen. Ein Acount System mit Register und Login. Ingame gibt es einen Chat. Eine Voice Modulation wurde hinzugefügt usw. usw.",
+        "image": "img/thumbs/panel03.png",
+        "date": "Monday, 13 July 2026"
+    },
+    {
         "name": "Version 0.8.0",
         "description": "This should be the first version to appear under ‘Releases’. Hopefully. Maybe… well, definitely!",
         "image": "img/thumbs/panel03.png",
